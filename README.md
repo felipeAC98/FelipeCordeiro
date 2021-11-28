@@ -17,7 +17,7 @@ Atualmente trabalho como analista e desenvolvedor backend mas também tenho muit
 
 ## Contato
 
-Sinta-se livre para entrar em contato comigo caso queira saber algo sobre algum dos meus projetos ou sobre mim! :D
+Sinta-se livre para entrar em contato comigo caso queira saber mais sobre algum dos meus projetos ou mesmo sobre mim! :D
 
  <div> 
   <a href = "mailto:felipe.alvcor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
