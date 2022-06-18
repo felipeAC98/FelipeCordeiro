@@ -1,10 +1,10 @@
 ## Hello World, sou o Felipe!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
-Backend Developer 👩‍💻
  
-Sou apaixonado por tecnologia e codar(muito)!
-
-Atualmente trabalho como analista e desenvolvedor backend mas também tenho muito interesse em Machine Learning e a maior parte de meus projetos pessoais são voltados para essa área!
+Sou analista e desenvolvedor backend 👩‍💻 com foco nas liguagens Python, C e C++. Tenho experiência teórica e prática de tecnologias de telecomunicações móveis como LTE(4G) e New Radio(5G), até o momento sempre apliquei estes conhecimentos de telecomunicações sobre a arquitetura Android.
+Em meu tempo livre procuro desenvolver aplicações relacionadas as minhas áreas de interesse para manter o conhecimento em dia, algumas delas estão presentes de forma pública em meu repositório do Github. Em geral essas aplicações fazem uso de APIs REST para obtenção dos dados base e as que mais gostei de desenvolver eram relacionadas com Machine Learning.
+Atualmente estou focado em adquirir conhecimento mais aprofundado em ferramentas relacionadas ao DevOps, como por exemplo containerização com Docker e integração contínua com Jenkins.
+Me dedico para ser referência no que faço e repassar o conhecimento obtido para os demais. Adoro ensinar para aqueles com menor experiência que eu em determinado assunto!
 
 ## Languages and Tools:
 
